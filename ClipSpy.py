@@ -1,5 +1,5 @@
 #ClipSpy
-#A tool which records the copied data of clipboard.
+#A tool which records the copied data of the clipboard.
 #Author - Cyber Penetrate
 
 import sys
