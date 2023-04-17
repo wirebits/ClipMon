@@ -15,7 +15,7 @@ The testing is going on different systems.
 2. Open the folder and run the <i>ClipSpy.py</i> file.
 
 <h1>Key Features</h1><h2><i>V1.0</i></h2>
-<b>1. Record each copied data into the txt file.</b><br>
+<b>1. Record each copied text into the txt file.</b><br>
 <b>2. Show each copied data with proper date and time.</b><br>
 <b>3. If the clipboard is empty, then the program stopped.</b><br>
 <b>4. Update the txt file every second.</b>
