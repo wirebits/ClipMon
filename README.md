@@ -1,4 +1,4 @@
-# ClipSpy
+# ClipMon
 A tool which records the copied data of the clipboard.
 
 <h1>Setup</h1>
@@ -12,7 +12,7 @@ The testing is going on different systems.
 
 <h1>Install and Run</h1>
 1. Download or Clone the Code.<br>
-2. Open the folder and run the <i>ClipSpy.py</i> file.
+2. Open the folder and run the <i>ClipMon.py</i> file.
 
 <h1>Key Features</h1>
 <b>1. Record each copied text into the txt file.</b><br>
