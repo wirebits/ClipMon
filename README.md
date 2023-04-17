@@ -14,7 +14,7 @@ The testing is going on different systems.
 1. Download or Clone the Code.<br>
 2. Open the folder and run the <i>ClipSpy.py</i> file.
 
-<h1>Key Features</h1><h2><i>V1.0</i></h2>
+<h1>Key Features</h1>
 <b>1. Record each copied text into the txt file.</b><br>
 <b>2. Show each copied data with proper date and time.</b><br>
 <b>3. If the clipboard is empty, then the program stopped.</b><br>
