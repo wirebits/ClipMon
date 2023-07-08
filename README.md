@@ -3,7 +3,7 @@ A tool which records the copied data of the clipboard.
 
 <h1>Setup</h1>
 1. Make sure the python is installed on your system (Windows/Linux/MacOS).<br>
-2. Install the <i>pyperclip</i> module on your system (Windows/Linux/MacOS).
+2. Install the <a href="https://pypi.org/project/pyperclip/"><i>pyperclip</i></a> module on your system (Windows/Linux/MacOS).
 
 <h1>Tested Systems</h1>
 The tool is currently tested on : <br>
