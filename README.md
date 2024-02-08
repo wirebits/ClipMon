@@ -1,5 +1,5 @@
 # ClipMon
-A tool which records the copied data of the clipboard.
+A tool which records the copied text of the clipboard.
 
 <h1>Setup</h1>
 1. Make sure the python and pip3 is installed on your system (Windows/Linux/MacOS).<br>
