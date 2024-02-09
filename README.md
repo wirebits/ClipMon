@@ -15,11 +15,11 @@ The tool is currently tested on : <br>
 The testing is going on different systems.
 
 <h1>Install and Run</h1>
-1. Download or Clone the Code.<br>
+1. Download or Clone the Repository.<br>
 2. Open the folder and run the <i>ClipMon.py</i> file.
 
 <h1>Key Features</h1>
 <b>1. Record each copied text into the txt file.</b><br>
-<b>2. Show each copied data with proper date and time.</b><br>
+<b>2. Show each copied text with proper date and time.</b><br>
 <b>3. If the clipboard is empty, then the program stopped.</b><br>
 <b>4. Update the txt file every second.</b>
