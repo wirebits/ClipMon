@@ -12,6 +12,7 @@ pip3 install -r requirements.txt
 <h1>Tested Systems</h1>
 The tool is currently tested on : <br>
 1. Windows (10)<br>
+2. Kali Linux<br>
 The testing is going on different systems.
 
 <h1>Install and Run</h1>
