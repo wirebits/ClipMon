@@ -1,6 +1,6 @@
 #ClipMon
 #A tool which records the copied data of the clipboard.
-#Author - Wirebits
+#Author - WireBits
 
 import sys
 import time
