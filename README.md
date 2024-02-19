@@ -17,7 +17,12 @@ The testing is going on different systems.
 
 <h1>Install and Run</h1>
 1. Download or Clone the Repository.<br>
-2. Open the folder and run the <i>ClipMon.py</i> file.
+2. Open the folder and run the <i>ClipMon.py</i> file.<br>
+Note : To run without console window in windows:<br><br>
+
+```
+pythonw.exe ClipMon.py
+```
 
 <h1>Key Features</h1>
 <b>1. Record each copied text into the txt file.</b><br>
